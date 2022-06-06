@@ -5,5 +5,5 @@ authors = ["DerFetzer <kontakt@der-fetzer.de>"]
 edition = "2018"
 
 [dependencies]
-rocket = "0.4.1"
-rocket_contrib = { version = "0.4.1", default-features = false, features = ["json"] }
+rocket = "0.4.11"
+rocket_contrib = { version = "0.4.10", default-features = false, features = ["json"] }
